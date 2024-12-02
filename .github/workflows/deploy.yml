@@ -32,4 +32,3 @@ jobs:
         run: |
             sam --version
             ./deploy.sh
-          
